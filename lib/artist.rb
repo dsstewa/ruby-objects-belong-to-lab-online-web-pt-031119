@@ -2,7 +2,7 @@
 
 class Artist 
   
-  attr_accessor :artist
+  attr_accessor :name
   
 
 end
